@@ -42,7 +42,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
  <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona5.png?raw=true"  width="900" height="700" /> <br>
 <br>
 
-<img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/p1h1.png?raw=true width"  width="500" height="300" />
+<img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/p1h1.png?raw=true width"  width="300" height="300" />
 
                                                                                        
 
