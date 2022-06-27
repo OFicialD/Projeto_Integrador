@@ -26,15 +26,19 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 
 
 ### 4.Personas e Histórias de usuário<br>
- PERSONA 1<br>
+ # PERSONA 1<br>
  <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona1.png?raw=true"  width="900" height="700" /> <br>
- PERSONA 2<br>
+ <br>
+ # PERSONA 2<br>
  <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona2.png?raw=true"  width="900" height="700" /> <br>
- PERSONA 3<br>
+ <br>
+ # PERSONA 3<br>
  <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona3.png?raw=true"  width="900" height="700" /> <br>
- PERSONA 4<br>
+ <br>
+ # PERSONA 4<br>
  <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona4.png?raw=true"  width="900" height="700" /> <br>
- PERSONA 5<br>
+ <br>
+ # PERSONA 5<br>
  <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona5.png?raw=true"  width="900" height="700" /> <br>
 
 
