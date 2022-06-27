@@ -59,8 +59,8 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 
 ### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 
-![Alt text](https://github.com/zerolevi9/template_projeto_integrador/blob/main/telas.png?raw=true "Title")<br>
-![Arquivo PDF do Protótipo Balsamiq feito para o Projeto Autumn](https://github.com/zerolevi9/template_projeto_integrador/blob/18c60b98987f2869147cdd2d2e5f1364e2b98e0c/ProjetoAutumn.pdf "Projeto Autumn")
+![Alt text](https://github.com/OFicialD/Projeto_Integrador/blob/main/Mockup/MockupImagem.png?raw=true "Title")<br>
+![Arquivo PDF do Protótipo Balsamiq feito para o Projeto Autumn](https://github.com/OFicialD/Projeto_Integrador/blob/17ee789bb2b90453acfb3055198f68ceeb7b111f/Mockup/ProjetoAutumn.pdf "Projeto Autumn")
 
 
 #### 5.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
