@@ -26,7 +26,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 
 
 ### 4.Personas e Histórias de usuário<br>
-<img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona1.png?raw=true"  width="500" height="500" /> <br>
+<img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona1.png?raw=true"  width="500" height="700" /> <br>
 
 a) inclusão dos Persons desenvolvidos pelo grupo<br>
 <br>
