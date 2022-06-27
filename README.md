@@ -43,11 +43,13 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 <br>
 ### Historias de usuário da Persona 1
 <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona1/p1h1.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona1/p1h2.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona1/p1h3.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona1/p1h4.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona1/p1h5.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona1/p1h6.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona1/p1h7.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona1/p1h8.png?raw=true"  width="200" height="200" />
+<br>
+### Historias de usuário da Persona 2
+<img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona2/p2h1.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona2/p2h2.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona2/p2h3.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona2/p2h4.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona2/p2h5.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona2/p2h6.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona2/p2h7.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona2/p2h8.png?raw=true"  width="200" height="200" />
 
 
-                                                                                       
 
-                                                                                                             
+                                                                                                                                                                                                   
 ### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 
 ![Alt text](https://github.com/zerolevi9/template_projeto_integrador/blob/main/telas.png?raw=true "Title")<br>
