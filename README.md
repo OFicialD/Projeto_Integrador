@@ -20,7 +20,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
  
  
 ### 3.PMC<br>
-![PMC](![image](https://github.com/OFicialD/Projeto_Integrador/blob/main/PMCImagem.png?raw=true) "PMC")
+<img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/PMCImagem.png?raw=true" "PMC">
 a) inclusão do PMC desenvolvido pelo grupo <br>
 
 
