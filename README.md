@@ -8,7 +8,7 @@ Integrantes do grupo<br>
 Levi Monteiro Silva:              zerolevi9@gmail.com<br>
 Marcos Vinícius Souza dos Santos: marcosviniciussouzadossantos@gmail.com<br>
 Iaggo Ramos Rauta:                iaggodelimaa@gmail.com<br>
-..
+
 
 ### 2.MINIMUNDO<br>
 Descrever o mini-mundo! (Não deve ser maior do que 30 linhas, se necessário resumir para justar)
@@ -26,8 +26,8 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 
 
 ### 4.Personas e Histórias de usuário<br>
-<title>Persona 1</title><br>
-<img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona1.png?raw=true"  width="800" height="500" /> <br>
+###Persona 1<br>
+<img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona1.png?raw=true"  width="1000" height="800" /> <br>
 <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona2.png?raw=true"  width="800" height="500" /> <br>
 <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona3.png?raw=true"  width="800" height="500" /> <br>
 <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona4.png?raw=true"  width="800" height="500" /> <br>
