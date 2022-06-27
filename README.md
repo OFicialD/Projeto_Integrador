@@ -22,7 +22,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 ### 3.PMC<br>
  ![image](https://user-images.githubusercontent.com/85647747/176047800-2c19aa40-23a2-4f18-ab09-b46047c9aead.png)<br>
  <br>
- a) inclusão do PMC desenvolvido pelo grupo
+ ![Arquivo PDF do PMC feito para o Projeto Autumn](https://github.com/OFicialD/Projeto_Integrador/blob/44bf3a66bdfaa40e2eb8005dc92299f758b17c8d/PMCVersaoFinal.pdf "Projeto Autumn")
 
 
 ### 4.Personas e Histórias de usuário<br>
