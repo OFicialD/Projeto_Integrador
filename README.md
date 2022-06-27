@@ -20,7 +20,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
  
  
 ### 3.PMC<br>
- ![Exemplo de Tabela de dados da Empresa Devcom](![image](https://github.com/zerolevi9/template_projeto_integrador/blob/main/PMCAlterado-LeviMonteiroIaggoRautaMarcosVinicius_page-0001.jpg?raw=true) "PMC")
+![Alt text](![image](https://user-images.githubusercontent.com/85647747/176047800-2c19aa40-23a2-4f18-ab09-b46047c9aead.png) "Title")
  <br>
  a) inclusão do PMC desenvolvido pelo grupo
 
