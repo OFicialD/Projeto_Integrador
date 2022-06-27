@@ -27,19 +27,19 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 
 ### 4.Personas e Histórias de usuário<br>
  ### PERSONA 1<br>
- <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona1.png?raw=true"  width="900" height="700" /> <br>
+ <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Personas/Persona1.png?raw=true"  width="900" height="700" /> <br>
  <br>
  ### PERSONA 2<br>
- <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona2.png?raw=true"  width="900" height="700" /> <br>
+ <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Personas/Persona2.png?raw=true"  width="900" height="700" /> <br>
  <br>
  ### PERSONA 3<br>
- <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona3.png?raw=true"  width="900" height="700" /> <br>
+ <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Personas/Persona3.png?raw=true"  width="900" height="700" /> <br>
  <br>
  ### PERSONA 4<br>
- <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona4.png?raw=true"  width="900" height="700" /> <br>
+ <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Personas/Persona4.png?raw=true"  width="900" height="700" /> <br>
  <br>
  ### PERSONA 5<br>
- <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona5.png?raw=true"  width="900" height="700" /> <br>
+ <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Personas/Persona5.png?raw=true"  width="900" height="700" /> <br>
 <br>
 ### Historias de usuário da Persona 1
 <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/p1h1.png?raw=true width"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/p1h2.png?raw=true width"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/p1h3.png?raw=true width"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/p1h4.png?raw=true width"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/p1h5.png?raw=true width"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/p1h6.png?raw=true width"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/p1h7.png?raw=true width"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/p1h8.png?raw=true width"  width="200" height="200" />
