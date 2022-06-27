@@ -26,12 +26,11 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 
 
 ### 4.Personas e Histórias de usuário<br>
- #Persona 1
- <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona1.png?raw=true"  width="1000" height="800" /> <br>
- <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona2.png?raw=true"  width="1000" height="800" /> <br>
- <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona3.png?raw=true"  width="1000" height="800" /> <br>
- <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona4.png?raw=true"  width="1000" height="800" /> <br>
- <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona5.png?raw=true"  width="1000" height="800" /> <br>
+ <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona1.png?raw=true"  width="900" height="700" /> <br>
+ <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona2.png?raw=true"  width="900" height="700" /> <br>
+ <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona3.png?raw=true"  width="900" height="700" /> <br>
+ <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona4.png?raw=true"  width="900" height="700" /> <br>
+ <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona5.png?raw=true"  width="900" height="700" /> <br>
 
 
 a) inclusão dos Persons desenvolvidos pelo grupo<br>
