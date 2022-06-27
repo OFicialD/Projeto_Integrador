@@ -40,15 +40,19 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
  <br>
  ### PERSONA 5<br>
  <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Persona5.png?raw=true"  width="900" height="700" /> <br>
-
-
-a) inclusão dos Persons desenvolvidos pelo grupo<br>
-<br>
-<img src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" UserStory src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" width="500" height="300" /> <br>
-b) inclusão das Histórias de usuário desenvolvidas pelo grupo
 <br>
 
+<img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/p1h1.png?raw=true width="500" height="300" /> <br>
+<img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/p1h2.png?raw=true width="500" height="300" /> <br>
+<img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/p1h3.png?raw=true width="500" height="300" /> <br>
+<img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/p1h4.png?raw=true width="500" height="300" /> <br>
+<img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/p1h5.png?raw=true width="500" height="300" /> <br>
+<img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/p1h6.png?raw=true width="500" height="300" /> <br>
+<img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/p1h7.png?raw=true width="500" height="300" /> <br>
+<img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/p1h8.png?raw=true width="500" height="300" /> <br>
+                                                                                       
 
+                                                                                                             
 ### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 
 ![Alt text](https://github.com/zerolevi9/template_projeto_integrador/blob/main/telas.png?raw=true "Title")<br>
