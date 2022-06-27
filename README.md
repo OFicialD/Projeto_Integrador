@@ -5,9 +5,9 @@ Trabalho desenvolvido durante a disciplina de Desenvolvimento de Sistemas
 
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
-Levi Monteiro Silva:zerolevi9@gmail.com<br>
-Marcos Vinícius Souza dos Santos:marcosviniciussouzadossantos@gmail.com<br>
-Iaggo Ramos Rauta:iaggodelimaa@gmail.com<br>
+Levi Monteiro Silva:              zerolevi9@gmail.com<br>
+Marcos Vinícius Souza dos Santos: marcosviniciussouzadossantos@gmail.com<br>
+Iaggo Ramos Rauta:                iaggodelimaa@gmail.com<br>
 ..
 
 ### 2.MINIMUNDO<br>
