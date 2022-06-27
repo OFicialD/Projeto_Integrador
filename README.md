@@ -1,13 +1,14 @@
-# TRABALHO DE PI:  Título do Trabalho
-Trabalho desenvolvido durante a disciplina de Banco de Dados do Integrado
+# TRABALHO DE PI:  Player e Streaming de Audio
+Trabalho desenvolvido durante a disciplina de Desenvolvimento de Sistemas
 
 # Sumário
 
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
-primeiro_componente_do_grupo:email_primeiro_componente@dominio.com<br>
-segundo_componente_do_grupo:email_segundo_componente@dominio.com<br>
-...
+Levi Monteiro Silva:zerolevi9@gmail.com<br>
+Marcos Vinícius Souza dos Santos:marcosviniciussouzadossantos@gmail.com<br>
+Iaggo Ramos Rauta:iaggodelimaa@gmail.com<br>
+..
 
 ### 2.MINIMUNDO<br>
 Descrever o mini-mundo! (Não deve ser maior do que 30 linhas, se necessário resumir para justar)
@@ -33,12 +34,9 @@ b) inclusão das Histórias de usuário desenvolvidas pelo grupo
 
 
 ### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-Neste ponto a codificação não e necessária, somente as ideias de telas devem ser desenvolvidas. O princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas e/ou descartadas <br>
 
-Sugestão: https://balsamiq.com/products/mockups/<br>
-
-![Alt text](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/balsamiq.png?raw=true "Title")
-![Arquivo PDF do Protótipo Balsamiq feito para Empresa Devcom](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/EmpresaDevcom.pdf?raw=true "Empresa Devcom")
+![Alt text](https://github.com/zerolevi9/template_projeto_integrador/blob/main/telas.png?raw=true "Title")<br>
+![Arquivo PDF do Protótipo Balsamiq feito para o Projeto Autumn](https://github.com/zerolevi9/template_projeto_integrador/blob/18c60b98987f2869147cdd2d2e5f1364e2b98e0c/ProjetoAutumn.pdf "Projeto Autumn")
 
 
 #### 5.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
