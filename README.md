@@ -14,7 +14,7 @@ Trabalho desenvolvido durante a disciplina de Desenvolvimento de Sistemas
  <a href = "#RASTRARTF">Rastreabilidade de artefado</a> ●
 </p>
 
-### 1. COMPONENTES<br> (#componentes)
+<h1>### 1. COMPONENTES<br></h1> (#componentes)
 Integrantes do grupo<br>
 Levi Monteiro Silva:              zerolevi9@gmail.com<br>
 Marcos Vinícius Souza dos Santos: marcosviniciussouzadossantos@gmail.com<br>
