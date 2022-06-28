@@ -14,14 +14,14 @@ Trabalho desenvolvido durante a disciplina de Desenvolvimento de Sistemas
  <a href = "#RASTRARTF">Rastreabilidade de artefado</a> ●
 </p>
 
-### 1. COMPONENTES<br> #componentes
+### 1. COMPONENTES<br> (#componentes)
 Integrantes do grupo<br>
 Levi Monteiro Silva:              zerolevi9@gmail.com<br>
 Marcos Vinícius Souza dos Santos: marcosviniciussouzadossantos@gmail.com<br>
 Iaggo Ramos Rauta:                iaggodelimaa@gmail.com<br>
 ..
 
-### 2.MINIMUNDO<br>#minimundo
+### 2.MINIMUNDO<br>(#minimundo)
 Descrever o mini-mundo! (Não deve ser maior do que 30 linhas, se necessário resumir para justar)
 Entrevista com o usuário e identificação dos requisitos.(quando for o caso de sistemas com cliente real)
 Descrição textual das regras de negócio definidas como um subconjunto do mundo real cujos elementos são propriedades que desejamos incluir, processar, armazenar, gerenciar, atualizar, e que descrevem a proposta/solução a ser desenvolvida.
