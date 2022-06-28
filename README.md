@@ -88,7 +88,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 * Relatório com a quantidade de empregados por cada departamento incluindo as seguintes informações: nome do departamento, supervisor e quantidade de empregados alocados no departamento.
 * Relatório de supervisores e supervisionados incluindo as seguintes informações: nome do supervisor e nome do supervisionado.<br>
  
-<a name="#tabs">
+<a name="tabs">
 ### 6 TABELA DE DADOS DO SISTEMA:<br>
     A) Esta tabela deve conter **todos os atributos do sistema** e um mínimo de 10 linhas/registros de dados.
     B) Esta tabela tem a intenção de simular um relatório com todos os dados que serão armazenados 
@@ -119,7 +119,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
     CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
 
-    <a name="#rast">
+    <a name="rast">
 ### 8	RASTREABILIDADE DOS ARTEFATOS<br> #RASTRARTF
         a) Historia de usuários vs protótipo (mockup)
         b) Protótipo vs Modelo conceitual
