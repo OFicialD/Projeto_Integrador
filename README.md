@@ -9,8 +9,8 @@ Trabalho desenvolvido durante a disciplina de Desenvolvimento de Sistemas
     1. [Personas](#personas)
     2. [Histórias de usuários](#hst)
 5. [MOCKUPS](#MOCKUPS)
-6. [TABELA DE DADOS DO SISTEMA](#TABDADSIS)
-7. [Modelo Conceitual] (#MODCONC)
+6. [Tabela de dados do sistema](#TABDADSIS)
+7. [Tabela de dados do sistema](#TABDADSIS)
 8. [Rastreabilidade de artefado](#RASTRARTF)
 
 <a name="Componentes">
@@ -96,7 +96,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
     
 ![Exemplo de Tabela de dados da Empresa Devcom](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/TabelaEmpresaDevCom_sample.xlsx?raw=true "Tabela - Empresa Devcom")
 
-<a name="#MODCONC">
+<a name="#TABDADSIS">
  ### 7.MODELO CONCEITUAL<br> 
     A) Utilizar a Notação adequada (Preferencialmente utilizar o BR Modelo 3)
     B) O mínimo de entidades do modelo conceitual pare este trabalho será igual a 4.
@@ -118,6 +118,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
     CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
 
+    <a name="#RASTRARTF">
 ### 8	RASTREABILIDADE DOS ARTEFATOS<br> #RASTRARTF
         a) Historia de usuários vs protótipo (mockup)
         b) Protótipo vs Modelo conceitual
