@@ -1,4 +1,4 @@
-# TRABALHO DE PI:  Player e Streaming de Audio
+<h1><h1># TRABALHO DE PI:  Player e Streaming de Audio</h1>
 Trabalho desenvolvido durante a disciplina de Desenvolvimento de Sistemas
 
 # Sumário
@@ -14,7 +14,7 @@ Trabalho desenvolvido durante a disciplina de Desenvolvimento de Sistemas
  <a href = "#RASTRARTF">Rastreabilidade de artefado</a> ●
 </p>
 
-<h1>### 1. COMPONENTES<br></h1> (#componentes)
+<h2>### 1. COMPONENTES<br></h2> (#componentes)
 Integrantes do grupo<br>
 Levi Monteiro Silva:              zerolevi9@gmail.com<br>
 Marcos Vinícius Souza dos Santos: marcosviniciussouzadossantos@gmail.com<br>
@@ -68,7 +68,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona5/p5h1.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona5/p5h2.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona5/p5h3.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona5/p5h4.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona5/p5h5.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona5/p5h6.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona5/p5h7.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona5/p5h8.png?raw=true"  width="200" height="200" />
 <br>
 
-### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br> # MOCKUPS
+### <h2>5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br></h2> # MOCKUPS
 
 ![Alt text](https://github.com/OFicialD/Projeto_Integrador/blob/main/Mockup/MockupImagem.png?raw=true "Title")<br>
 ![Arquivo PDF do Protótipo Balsamiq feito para o Projeto Autumn](https://github.com/OFicialD/Projeto_Integrador/blob/17ee789bb2b90453acfb3055198f68ceeb7b111f/Mockup/ProjetoAutumn.pdf "Projeto Autumn")
