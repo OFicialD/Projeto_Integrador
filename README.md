@@ -9,9 +9,10 @@ Trabalho desenvolvido durante a disciplina de Desenvolvimento de Sistemas
     1. [Personas](#personas)
     2. [Histórias de usuários](#hst)
 5. [MOCKUPS](#MOCKUPS)
-6. [Tabela de dados do sistema](#TABDADSIS)
-7. [MODELO CONCEITUAL](#modconc)
-8. [Rastreabilidade de artefado](#Rast)
+6.  [Tabela de dados do sistema](#tabs)
+7.  [MODELO CONCEITUAL](#modconc)
+8.  [Rastreabilidade de artefado](#Rast)
+
 
 <a name="Componentes">
 ### 1. COMPONENTES<br>(#componentes)
@@ -85,16 +86,16 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 * Relatório de empregados por projeto incluindo as seguintes informações: número do projeto, nome do projeto, rg do empregado, nome do empregado e quantidade de horas de trabalho do empregado alocadas ao projeto.
 * Relatório de empregados com dependentes incluindo as seguintes informações: rg do empregado, nome do empregado, nome do dependente, tipo de relação, data de nascimento do dependente e sexo do dependente.
 * Relatório com a quantidade de empregados por cada departamento incluindo as seguintes informações: nome do departamento, supervisor e quantidade de empregados alocados no departamento.
-* Relatório de supervisores e supervisionados incluindo as seguintes informações: nome do supervisor e nome do supervisionado.
+* Relatório de supervisores e supervisionados incluindo as seguintes informações: nome do supervisor e nome do supervisionado.<br>
  
- <a name="#TABDADSIS">
-### 6 TABELA DE DADOS DO SISTEMA:
+ <a name="#Tabs">
+### 6 TABELA DE DADOS DO SISTEMA:<br>
     A) Esta tabela deve conter **todos os atributos do sistema** e um mínimo de 10 linhas/registros de dados.
     B) Esta tabela tem a intenção de simular um relatório com todos os dados que serão armazenados 
  <br> (veja o exemplo abaixo antes de criar a tabela para seu trabalho)
     C) Após criada esta tabela não deve ser modificada, pois será comparada com os resultados finais na conclusão do trabalho
     
-![Exemplo de Tabela de dados da Empresa Devcom](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/TabelaEmpresaDevCom_sample.xlsx?raw=true "Tabela - Empresa Devcom")
+![Exemplo de Tabela de dados da Empresa Devcom](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/TabelaEmpresaDevCom_sample.xlsx?raw=true "Tabela - Empresa Devcom")<br>
 
 <a name="#modconc">
  ### 7.MODELO CONCEITUAL<br> 
