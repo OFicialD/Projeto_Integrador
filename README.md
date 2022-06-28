@@ -2,17 +2,16 @@
 Trabalho desenvolvido durante a disciplina de Desenvolvimento de Sistemas
 
 # Sumário
-<p align="center"> 
- <a href = "#componentes">Componentes</a> ●
- <a href = "#minimundo">Minimundo</a> ●
- <a href = "#pmc">PMC</a> ● 
- <a href = "#personas">Personas</a> ●
- <a href = "#hstUsr">Histórias de usuários</a> ●
-<a href = "#MOCKUPS"> MOCKUPS</a> ●
- <a href = "#TABDADSIS">Insert aplicado no BD</a> ●
- <a href = "#MODCONC">Modelo Conceitual</a> ●
- <a href = "#RASTRARTF">Rastreabilidade de artefado</a> ●
-</p>
+1. [Componentes](#Componentes)
+2. [Minimundo](#minimundo)
+3. [PMP](#pmc)
+4. [Personas e Histórias de usuários](#personas)
+  1. [Personas](#personas)
+  2. [Histórias de usuários](#hstUsr)
+5. [MOCKUPS](#MOCKUPS)
+6. [Insert aplicado no BD](#TABDADSIS)
+7. [Modelo Conceitual] (#MODCONC)
+9. [Rastreabilidade de artefado](#RASTRARTF)
 
 ### 1. COMPONENTES<br>(#componentes)
 Integrantes do grupo<br>
