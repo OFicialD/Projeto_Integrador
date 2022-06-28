@@ -16,7 +16,7 @@ Trabalho desenvolvido durante a disciplina de Desenvolvimento de Sistemas
 
 <a name="Componentes"> </a>
     
-## 1. COMPONENTES<br>(#componentes)
+### 1. COMPONENTES<br>
 Integrantes do grupo<br>
 Levi Monteiro Silva:              zerolevi9@gmail.com<br>
 Marcos Vinícius Souza dos Santos: marcosviniciussouzadossantos@gmail.com<br>
