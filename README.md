@@ -118,8 +118,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
     EXEMPLO:
     CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
-
-    <a name="rast">
+<a name="Rast">
 ### 8	RASTREABILIDADE DOS ARTEFATOS<br> #RASTRARTF
         a) Historia de usuários vs protótipo (mockup)
         b) Protótipo vs Modelo conceitual
