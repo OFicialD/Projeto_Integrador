@@ -7,35 +7,37 @@ Trabalho desenvolvido durante a disciplina de Desenvolvimento de Sistemas
 3. [PMP](#pmc)
 4. [Personas e Histórias de usuários](#personas)
   1. [Personas](#personas)
-  2. [Histórias de usuários](#hstUsr)
+  2. [Histórias de usuários](#hst)
 5. [MOCKUPS](#MOCKUPS)
 6. [Insert aplicado no BD](#TABDADSIS)
 7. [Modelo Conceitual] (#MODCONC)
 9. [Rastreabilidade de artefado](#RASTRARTF)
 
-### 1. COMPONENTES<br>(#componentes)<a name="Componentes">
+<a name="Componentes">
+### 1. COMPONENTES<br>(#componentes)
 Integrantes do grupo<br>
 Levi Monteiro Silva:              zerolevi9@gmail.com<br>
 Marcos Vinícius Souza dos Santos: marcosviniciussouzadossantos@gmail.com<br>
 Iaggo Ramos Rauta:                iaggodelimaa@gmail.com<br>
 ..
 
-### 2.MINIMUNDO<br> <a name="minimundo">
+<a name="minimundo">
+### 2.MINIMUNDO<br> 
 Descrever o mini-mundo! (Não deve ser maior do que 30 linhas, se necessário resumir para justar)
 Entrevista com o usuário e identificação dos requisitos.(quando for o caso de sistemas com cliente real)
 Descrição textual das regras de negócio definidas como um subconjunto do mundo real cujos elementos são propriedades que desejamos incluir, processar, armazenar, gerenciar, atualizar, e que descrevem a proposta/solução a ser desenvolvida.
 <br>
 
-> O sistema proposto para a "Devcom Projetos conterá as informacões aqui detalhadas. Dos Projetos serão armazenados o número, nome e cidade. Dos Departamentos serão armazenados o número e nome. O cliente destacou que cada projeto pode ter vários departamentos auxiliando no seu desenvolvimento, e cada departamento pode estar envolvido em vários projetos. Os dados relativos aos empregados que serão armazenados são: rg, nome, cpf, salário, data inicial do salario e supervisor de cada empregado. É importante destacar que cada empregado pode ser supervisionado por outro empregado, e obrigatoriamente deve estar alocado a um único departamento, mas pode gerenciar vários departamentos ou não gerenciar nenhum. Um empregado também pode participar de vários projetos, caso seja necessário, mas não precisa obrigatoriamente estar alocado em algum projeto. Com relação aos dependentes serão armazenadas as informações de nome do dependente, data de nascimento, sexo e grau de parentesco. Cada empregado pode ter vários dependentes, mas um dependente esta associado apenas a um único empregado. Com relação ao histórico de salário devemos armazenar as informações de valor do salário, data de início do salário no período e data final do salário no período. É importante lembrar que cada funcionario pode ter diversos eventos de histórico de salário associados a ele visto que este dado pode ser alterado várias vezes..
- 
- 
-### 3.PMC<br> #pmc
+> O sistema proposto para a "Devcom Projetos conterá as informacões aqui detalhadas. Dos Projetos serão armazenados o número, nome e cidade. Dos Departamentos serão armazenados o número e nome. O cliente destacou que cada projeto pode ter vários departamentos auxiliando no seu desenvolvimento, e cada departamento pode estar envolvido em vários projetos. Os dados relativos aos empregados que serão armazenados são: rg, nome, cpf, salário, data inicial do salario e supervisor de cada empregado. É importante destacar que cada empregado pode ser supervisionado por outro empregado, e obrigatoriamente deve estar alocado a um único departamento, mas pode gerenciar vários departamentos ou não gerenciar nenhum. Um empregado também pode participar de vários projetos, caso seja necessário, mas não precisa obrigatoriamente estar alocado em algum projeto. Com relação aos dependentes serão armazenadas as informações de nome do dependente, data de nascimento, sexo e grau de parentesco. Cada empregado pode ter vários dependentes, mas um dependente esta associado apenas a um único empregado. Com relação ao histórico de salário devemos armazenar as informações de valor do salário, data de início do salário no período e data final do salário no período. É importante lembrar que cada funcionario pode ter diversos eventos de histórico de salário associados a ele visto que este dado pode ser alterado várias vezes..<br>
+   
+<a name="pmc">
+### 3.PMC<br> 
  ![image](https://user-images.githubusercontent.com/85647747/176047800-2c19aa40-23a2-4f18-ab09-b46047c9aead.png)<br>
  <br>
  ![Arquivo PDF do PMC feito para o Projeto Autumn](https://github.com/OFicialD/Projeto_Integrador/blob/44bf3a66bdfaa40e2eb8005dc92299f758b17c8d/PMCVersaoFinal.pdf "Projeto Autumn")
 
-
-### 4.Personas e Histórias de usuário<br> #personas
+<a name="personas">
+### 4.Personas e Histórias de usuário<br> 
  ### PERSONA 1<br>
  <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Personas/Persona1.png?raw=true"  width="900" height="700" /> <br>
  <br>
@@ -51,7 +53,8 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
  ### PERSONA 5<br>
  <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Personas/Persona5.png?raw=true"  width="900" height="700" /> <br>
 <br>
-### Historias de usuário da Persona 1 #hstUsr
+<a name="hst">
+### Historias de usuário da Persona 1 <a name="hst">
 <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona1/p1h1.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona1/p1h2.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona1/p1h3.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona1/p1h4.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona1/p1h5.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona1/p1h6.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona1/p1h7.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona1/p1h8.png?raw=true"  width="200" height="200" />
 <br>
 ### Historias de usuário da Persona 2
@@ -66,8 +69,8 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 ### Historias de usuário da Persona 5
 <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona5/p5h1.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona5/p5h2.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona5/p5h3.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona5/p5h4.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona5/p5h5.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona5/p5h6.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona5/p5h7.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona5/p5h8.png?raw=true"  width="200" height="200" />
 <br>
-
-### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br> # MOCKUPS
+ <a name="MOCKUPS">
+### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br> 
 
 ![Alt text](https://github.com/OFicialD/Projeto_Integrador/blob/main/Mockup/MockupImagem.png?raw=true "Title")<br>
 ![Arquivo PDF do Protótipo Balsamiq feito para o Projeto Autumn](https://github.com/OFicialD/Projeto_Integrador/blob/17ee789bb2b90453acfb3055198f68ceeb7b111f/Mockup/ProjetoAutumn.pdf "Projeto Autumn")
@@ -85,7 +88,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 * Relatório de supervisores e supervisionados incluindo as seguintes informações: nome do supervisor e nome do supervisionado.
  
 
-### 6 TABELA DE DADOS DO SISTEMA: #TABDADSIS
+### 6 TABELA DE DADOS DO SISTEMA: <a name="MOCKUPS">
     A) Esta tabela deve conter **todos os atributos do sistema** e um mínimo de 10 linhas/registros de dados.
     B) Esta tabela tem a intenção de simular um relatório com todos os dados que serão armazenados 
  <br> (veja o exemplo abaixo antes de criar a tabela para seu trabalho)
