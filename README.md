@@ -10,7 +10,7 @@ Trabalho desenvolvido durante a disciplina de Desenvolvimento de Sistemas
     2. [Histórias de usuários](#hst)
 5. [MOCKUPS](#MOCKUPS)
 6.  [Tabela de dados do sistema](#tabs)
-7.  [MODELO CONCEITUAL](#modconc)
+7.  [Modelo Conceitual](#modconc)
 8.  [Rastreabilidade de artefado](#Rast)
 
 
@@ -88,7 +88,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 * Relatório com a quantidade de empregados por cada departamento incluindo as seguintes informações: nome do departamento, supervisor e quantidade de empregados alocados no departamento.
 * Relatório de supervisores e supervisionados incluindo as seguintes informações: nome do supervisor e nome do supervisionado.<br>
  
-<a name="tabs">
+<a name="#tabs">
 ### 6 TABELA DE DADOS DO SISTEMA:<br>
     A) Esta tabela deve conter **todos os atributos do sistema** e um mínimo de 10 linhas/registros de dados.
     B) Esta tabela tem a intenção de simular um relatório com todos os dados que serão armazenados 
@@ -97,7 +97,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
     
 ![Exemplo de Tabela de dados da Empresa Devcom](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/TabelaEmpresaDevCom_sample.xlsx?raw=true "Tabela - Empresa Devcom")<br>
 
-<a name="#modconc">
+<a name="modconc">
  ### 7.MODELO CONCEITUAL<br> 
     A) Utilizar a Notação adequada (Preferencialmente utilizar o BR Modelo 3)
     B) O mínimo de entidades do modelo conceitual pare este trabalho será igual a 4.
