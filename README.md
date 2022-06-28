@@ -88,7 +88,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 * Relatório com a quantidade de empregados por cada departamento incluindo as seguintes informações: nome do departamento, supervisor e quantidade de empregados alocados no departamento.
 * Relatório de supervisores e supervisionados incluindo as seguintes informações: nome do supervisor e nome do supervisionado.<br>
  
- <a name="#Tabs">
+ <a name="#tabs">
 ### 6 TABELA DE DADOS DO SISTEMA:<br>
     A) Esta tabela deve conter **todos os atributos do sistema** e um mínimo de 10 linhas/registros de dados.
     B) Esta tabela tem a intenção de simular um relatório com todos os dados que serão armazenados 
