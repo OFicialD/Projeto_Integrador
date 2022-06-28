@@ -14,7 +14,7 @@ Trabalho desenvolvido durante a disciplina de Desenvolvimento de Sistemas
 8.  [Rastreabilidade de artefado](#Rast)
 
 
-<a name="Componentes" </a>
+<a name="Componentes"> </a>
     
 ## 1. COMPONENTES<br>(#componentes)
 Integrantes do grupo<br>
@@ -23,7 +23,7 @@ Marcos Vinícius Souza dos Santos: marcosviniciussouzadossantos@gmail.com<br>
 Iaggo Ramos Rauta:                iaggodelimaa@gmail.com<br>
 ..
 
-<a name="minimundo"</a>
+<a name="minimundo"></a>
 ### 2.MINIMUNDO<br> 
 Descrever o mini-mundo! (Não deve ser maior do que 30 linhas, se necessário resumir para justar)
 Entrevista com o usuário e identificação dos requisitos.(quando for o caso de sistemas com cliente real)
@@ -32,13 +32,13 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 
 > O sistema proposto para a "Devcom Projetos conterá as informacões aqui detalhadas. Dos Projetos serão armazenados o número, nome e cidade. Dos Departamentos serão armazenados o número e nome. O cliente destacou que cada projeto pode ter vários departamentos auxiliando no seu desenvolvimento, e cada departamento pode estar envolvido em vários projetos. Os dados relativos aos empregados que serão armazenados são: rg, nome, cpf, salário, data inicial do salario e supervisor de cada empregado. É importante destacar que cada empregado pode ser supervisionado por outro empregado, e obrigatoriamente deve estar alocado a um único departamento, mas pode gerenciar vários departamentos ou não gerenciar nenhum. Um empregado também pode participar de vários projetos, caso seja necessário, mas não precisa obrigatoriamente estar alocado em algum projeto. Com relação aos dependentes serão armazenadas as informações de nome do dependente, data de nascimento, sexo e grau de parentesco. Cada empregado pode ter vários dependentes, mas um dependente esta associado apenas a um único empregado. Com relação ao histórico de salário devemos armazenar as informações de valor do salário, data de início do salário no período e data final do salário no período. É importante lembrar que cada funcionario pode ter diversos eventos de histórico de salário associados a ele visto que este dado pode ser alterado várias vezes..<br>
    
-<a name="pmc"</a>
+<a name="pmc"></a>
 ### 3.PMC<br> 
  ![image](https://user-images.githubusercontent.com/85647747/176047800-2c19aa40-23a2-4f18-ab09-b46047c9aead.png)<br>
  <br>
  ![Arquivo PDF do PMC feito para o Projeto Autumn](https://github.com/OFicialD/Projeto_Integrador/blob/44bf3a66bdfaa40e2eb8005dc92299f758b17c8d/PMCVersaoFinal.pdf "Projeto Autumn")
 
-<a name="personas"</a>
+<a name="personas"></a>
 ### 4.Personas e Histórias de usuário<br> 
  ### PERSONA 1<br>
  <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Personas/Persona1.png?raw=true"  width="900" height="700" /> <br>
@@ -56,7 +56,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
  <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/Personas/Persona5.png?raw=true"  width="900" height="700" /> <br>
 <br>
 <a name="hst">
-### Historias de usuário da Persona 1 <a name="hst"</a>
+### Historias de usuário da Persona 1 <a name="hst"></a>
 <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona1/p1h1.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona1/p1h2.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona1/p1h3.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona1/p1h4.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona1/p1h5.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona1/p1h6.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona1/p1h7.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona1/p1h8.png?raw=true"  width="200" height="200" />
 <br>
 ### Historias de usuário da Persona 2
@@ -71,7 +71,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 ### Historias de usuário da Persona 5
 <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona5/p5h1.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona5/p5h2.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona5/p5h3.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona5/p5h4.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona5/p5h5.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona5/p5h6.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona5/p5h7.png?raw=true"  width="200" height="200" /> <img src="https://github.com/OFicialD/Projeto_Integrador/blob/main/HistoriasPersona5/p5h8.png?raw=true"  width="200" height="200" />
 <br>
- <a name="MOCKUPS"</a>
+ <a name="MOCKUPS"></a>
 ### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br> 
 
 ![Alt text](https://github.com/OFicialD/Projeto_Integrador/blob/main/Mockup/MockupImagem.png?raw=true "Title")<br>
@@ -89,7 +89,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 * Relatório com a quantidade de empregados por cada departamento incluindo as seguintes informações: nome do departamento, supervisor e quantidade de empregados alocados no departamento.
 * Relatório de supervisores e supervisionados incluindo as seguintes informações: nome do supervisor e nome do supervisionado.<br>
  
-<a name="tabs"</a>
+<a name="tabs"></a>
 ### 6 TABELA DE DADOS DO SISTEMA:<br>
     A) Esta tabela deve conter **todos os atributos do sistema** e um mínimo de 10 linhas/registros de dados.
     B) Esta tabela tem a intenção de simular um relatório com todos os dados que serão armazenados 
@@ -98,7 +98,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
     
 ![Exemplo de Tabela de dados da Empresa Devcom](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/TabelaEmpresaDevCom_sample.xlsx?raw=true "Tabela - Empresa Devcom")<br>
 
-<a name="modconc"</a>
+<a name="modconc"></a>
  ### 7.MODELO CONCEITUAL<br> 
     A) Utilizar a Notação adequada (Preferencialmente utilizar o BR Modelo 3)
     B) O mínimo de entidades do modelo conceitual pare este trabalho será igual a 4.
@@ -119,7 +119,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
     EXEMPLO:
     CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
-<a name="Rast"</a>
+<a name="Rast"></a>
 ### 8	RASTREABILIDADE DOS ARTEFATOS<br> #RASTRARTF
         a) Historia de usuários vs protótipo (mockup)
         b) Protótipo vs Modelo conceitual
