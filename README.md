@@ -6,12 +6,12 @@ Trabalho desenvolvido durante a disciplina de Desenvolvimento de Sistemas
 2. [Minimundo](#minimundo)
 3. [PMP](#pmc)
 4. [Personas e Histórias de usuários](#personas)
-  1. [Personas](#personas)
-  2. [Histórias de usuários](#hst)
+    1. [Personas](#personas)
+    2. [Histórias de usuários](#hst)
 5. [MOCKUPS](#MOCKUPS)
-6. [Insert aplicado no BD](#TABDADSIS)
+6. [TABELA DE DADOS DO SISTEMA](#TABDADSIS)
 7. [Modelo Conceitual] (#MODCONC)
-9. [Rastreabilidade de artefado](#RASTRARTF)
+8. [Rastreabilidade de artefado](#RASTRARTF)
 
 <a name="Componentes">
 ### 1. COMPONENTES<br>(#componentes)
@@ -87,8 +87,8 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 * Relatório com a quantidade de empregados por cada departamento incluindo as seguintes informações: nome do departamento, supervisor e quantidade de empregados alocados no departamento.
 * Relatório de supervisores e supervisionados incluindo as seguintes informações: nome do supervisor e nome do supervisionado.
  
-
-### 6 TABELA DE DADOS DO SISTEMA: <a name="MOCKUPS">
+ <a name="#TABDADSIS">
+### 6 TABELA DE DADOS DO SISTEMA:
     A) Esta tabela deve conter **todos os atributos do sistema** e um mínimo de 10 linhas/registros de dados.
     B) Esta tabela tem a intenção de simular um relatório com todos os dados que serão armazenados 
  <br> (veja o exemplo abaixo antes de criar a tabela para seu trabalho)
@@ -96,10 +96,8 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
     
 ![Exemplo de Tabela de dados da Empresa Devcom](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/TabelaEmpresaDevCom_sample.xlsx?raw=true "Tabela - Empresa Devcom")
 
-
- 
- 
- ### 7.MODELO CONCEITUAL<br> #MODCONC
+<a name="#MODCONC">
+ ### 7.MODELO CONCEITUAL<br> 
     A) Utilizar a Notação adequada (Preferencialmente utilizar o BR Modelo 3)
     B) O mínimo de entidades do modelo conceitual pare este trabalho será igual a 4.
         * informe quais são as 3 principais entidades do sistema em densenvolvimento
