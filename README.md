@@ -96,7 +96,7 @@ Iaggo Ramos Rauta:                iaggodelimaa@gmail.com<br>
 
 <a name="modconc"></a>
  ### 7.MODELO CONCEITUAL<br> 
-    A) Principais entidades do sistema: USUARIO, AUDIO e PLAYLIST_AUDIO.  
+    B) Principais entidades do sistema: USUARIO, AUDIO e PLAYLIST_AUDIO.  
         
 ![image](https://github.com/OFicialD/Projeto_Integrador/blob/main/modelo%20conceitual.jpg)
     
