@@ -25,12 +25,8 @@ Iaggo Ramos Rauta:                iaggodelimaa@gmail.com<br>
 
 <a name="minimundo"></a>
 ### 2.MINIMUNDO<br> 
-Descrever o mini-mundo! (Não deve ser maior do que 30 linhas, se necessário resumir para justar)
-Entrevista com o usuário e identificação dos requisitos.(quando for o caso de sistemas com cliente real)
-Descrição textual das regras de negócio definidas como um subconjunto do mundo real cujos elementos são propriedades que desejamos incluir, processar, armazenar, gerenciar, atualizar, e que descrevem a proposta/solução a ser desenvolvida.
-<br>
 
-> O sistema proposto para a "Devcom Projetos conterá as informacões aqui detalhadas. Dos Projetos serão armazenados o número, nome e cidade. Dos Departamentos serão armazenados o número e nome. O cliente destacou que cada projeto pode ter vários departamentos auxiliando no seu desenvolvimento, e cada departamento pode estar envolvido em vários projetos. Os dados relativos aos empregados que serão armazenados são: rg, nome, cpf, salário, data inicial do salario e supervisor de cada empregado. É importante destacar que cada empregado pode ser supervisionado por outro empregado, e obrigatoriamente deve estar alocado a um único departamento, mas pode gerenciar vários departamentos ou não gerenciar nenhum. Um empregado também pode participar de vários projetos, caso seja necessário, mas não precisa obrigatoriamente estar alocado em algum projeto. Com relação aos dependentes serão armazenadas as informações de nome do dependente, data de nascimento, sexo e grau de parentesco. Cada empregado pode ter vários dependentes, mas um dependente esta associado apenas a um único empregado. Com relação ao histórico de salário devemos armazenar as informações de valor do salário, data de início do salário no período e data final do salário no período. É importante lembrar que cada funcionario pode ter diversos eventos de histórico de salário associados a ele visto que este dado pode ser alterado várias vezes..<br>
+> Deseja se construir uma plataforma de streaming de audios. Para isso, são registrados usuários, cada um com id, nome, login, senha e idade. Para cada áudio publicado são registrados: id, título, id do autor e um arquivo. Esse arquivo pode ter uma legenda, que é registrada com: id, id do áudio, idioma e arquivo do áudio. Cada usuário pode montar suas playlists, que são registradas com: um id, nome e id do usuário. Para organização do banco de dados, os áudios das playlists são organizados na tabela playlist_audio, com um id, id da playlist e id do áudio. Quando um usuário ouve um áudio, é registrado no histórico com id, id do usuário e id do áudio.<br>
    
 <a name="pmc"></a>
 ### 3.PMC<br> 
@@ -110,8 +106,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
         Criar o esquema de forma a garantir a redução de informação redundante, possibilidade de valores null, 
         e tuplas falsas (Aplicar os conceitos de normalização abordados).   
         
-![Alt text](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/concept_sample.png?raw=true "Modelo Conceitual")
-      
+![image](https://github.com/OFicialD/Projeto_Integrador/blob/main/modelo%20conceitual.jpg)
     
 #### 7.1 Descrição dos dados 
     [objeto]: [descrição do objeto]
