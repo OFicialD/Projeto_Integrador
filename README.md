@@ -26,7 +26,11 @@ Iaggo Ramos Rauta:                iaggodelimaa@gmail.com<br>
 <a name="minimundo"></a>
 ### 2.MINIMUNDO<br> 
 
-    Deseja se construir uma plataforma de streaming de audios. Para isso, são registrados usuários, cada um com id, nome, login, senha e idade. Para cada áudio publicado são registrados: id, título, id do autor e um arquivo. Esse arquivo pode ter uma legenda, que é registrada com: id, id do áudio, idioma e arquivo do áudio. Cada usuário pode montar suas playlists, que são registradas com: um id, nome e id do usuário. Para organização do banco de dados, os áudios das playlists são organizados na tabela playlist_audio, com um id, id da playlist e id do áudio. Quando um usuário ouve um áudio, é registrado no histórico com id, id do usuário e id do áudio.<br>
+        Deseja se construir uma plataforma de streaming de audios. Para isso, são registrados usuários, cada um com id, nome, login, senha e idade. Para cada áudio
+    publicado são registrados: id, título, id do autor e um arquivo. Esse arquivo pode ter uma legenda, que é registrada com: id, id do áudio, idioma e arquivo do
+    áudio. Cada usuário pode montar suas playlists, que são registradas com: um id, nome e id do usuário. Para organização do banco de dados, os áudios das playlists
+    são organizados na tabela playlist_audio, com um id, id da playlist e id do áudio. Quando um usuário ouve um áudio, é registrado no histórico com id, id do 
+    usuário e id do áudio.<br>
    
 <a name="pmc"></a>
 ### 3.PMC<br> 
