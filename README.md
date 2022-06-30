@@ -78,11 +78,11 @@ Iaggo Ramos Rauta:                iaggodelimaa@gmail.com<br>
 > a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes?
     
 > b)  Relatório do Projeto Autumn:
-* Quais músicas são mais salvas pelos usuários 
-* Qual a idade média dos usuários
-* Quais musicas são mais escutadas
-* Qual o idioma com maior quantidade de legendas
-* Quais autores postam mais<br>
+> * Quais músicas são mais salvas pelos usuários 
+> * Qual a idade média dos usuários
+> * Quais musicas são mais escutadas
+> * Qual o idioma com maior quantidade de legendas
+> * Quais autores postam mais<br>
 
  
 <a name="tabs"></a>
