@@ -106,9 +106,10 @@ Iaggo Ramos Rauta:                iaggodelimaa@gmail.com<br>
     EXEMPLO:
     CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
+    
 <a name="Rast"></a>
 ### 8	RASTREABILIDADE DOS ARTEFATOS<br> #RASTRARTF
-        a) Historia de usuários vs protótipo (mockup)
+        a) Segue o link para o rastreamento https://docs.google.com/document/d/1g-CqQdT8uXy7CvA1nFOhF1kuzcirUm10I_adbgq1-Fo/edit?usp=sharing
         b) Protótipo vs Modelo conceitual
         (não serão aceitos modelos que não estejam em conformidade)
         c) Backlog (caso solicitado)
