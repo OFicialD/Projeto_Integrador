@@ -76,14 +76,15 @@ Iaggo Ramos Rauta:                iaggodelimaa@gmail.com<br>
 
 #### 5.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
     a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
-    b) Crie uma lista com os 5 principais relatórios que poderão ser obtidos por meio do sistema proposto!
+    b) 
     
-> A Empresa DevCom precisa inicialmente dos seguintes relatórios:
-* Relatório que informe quais são os gerentes de cada departamento incluindo as seguintes informações: número do departamento,  nome do departamento, e nome do gerente.
-* Relatório de empregados por projeto incluindo as seguintes informações: número do projeto, nome do projeto, rg do empregado, nome do empregado e quantidade de horas de trabalho do empregado alocadas ao projeto.
-* Relatório de empregados com dependentes incluindo as seguintes informações: rg do empregado, nome do empregado, nome do dependente, tipo de relação, data de nascimento do dependente e sexo do dependente.
-* Relatório com a quantidade de empregados por cada departamento incluindo as seguintes informações: nome do departamento, supervisor e quantidade de empregados alocados no departamento.
-* Relatório de supervisores e supervisionados incluindo as seguintes informações: nome do supervisor e nome do supervisionado.<br>
+> Relatório do Projeto Autumn:
+* Quais músicas são mais salvas pelos usuários 
+* Qual a idade média dos usuários
+* Quais musicas são mais escutadas
+* Qual o idioma com maior quantidade de legendas
+* Quais autores postam mais<br>
+
  
 <a name="tabs"></a>
 ### 6 TABELA DE DADOS DO SISTEMA:<br>
