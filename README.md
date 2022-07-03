@@ -117,7 +117,7 @@ c) ![Arquivo xlsx Backlog ](https://github.com/OFicialD/Projeto_Integrador/blob/
 
 ### 9	MODELO LÓGICO<br>
 
-(https://github.com/OFicialD/Projeto_Integrador/blob/main/Modelo%20Logico.jpg)<br>
+![image](https://github.com/OFicialD/Projeto_Integrador/blob/main/Modelo%20Logico.jpg)<br>
 
 ### 10	MODELO FÍSICO<br>
         a) inclusão das instruções de criacão das estruturas em SQL/DDL 
