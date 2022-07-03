@@ -30,7 +30,7 @@ Iaggo Ramos Rauta:                iaggodelimaa@gmail.com<br>
    
 <a name="pmc"></a>
 ### 3.PMC<br> 
- ![image](https://user-images.githubusercontent.com/85647747/176047800-2c19aa40-23a2-4f18-ab09-b46047c9aead.png)<br>
+ ![image](https://github.com/OFicialD/Projeto_Integrador/blob/main/PMCimagem.png?raw=true)<br>
  <br>
  ![Arquivo PDF do PMC feito para o Projeto Autumn](https://github.com/OFicialD/Projeto_Integrador/blob/44bf3a66bdfaa40e2eb8005dc92299f758b17c8d/PMCVersaoFinal.pdf "Projeto Autumn")
 
