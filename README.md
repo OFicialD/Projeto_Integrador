@@ -101,11 +101,41 @@ Iaggo Ramos Rauta:                iaggodelimaa@gmail.com<br>
 ![image](https://github.com/OFicialD/Projeto_Integrador/blob/main/modelo%20conceitual.jpg)
     
 #### 7.1 Descrição dos dados 
-    [objeto]: [descrição do objeto]
     
-    EXEMPLO:
-    CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
-    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
+    USUARIO: Tabela que armazena as informações relativas ao usuário
+    idNom: Armazena um id único para cada usuário, usado como identificador
+    nome:  Armazena um nome para cada usuário
+    idade: Armazena uma idade para cada usuário
+    login: Armazena uma string para cada usuário, que será comparado no login
+    senha: Armazena uma senha para cada usuário, que será comparada no login
+    
+    AUDIO: Tabela que armazena informações relativas aos audios registrados
+    idAud: Armazena um id único para cada áudio, usado como identificador
+    titulo:  Armazena um nome definido para cada áudio
+    idAutor: Armazena o id de quem postou cada audio
+    arqv:    Armazena a localização de cada arquivo de audio
+    
+    LEGENDA: Tabela que armazena informações relativas ás legendas
+    idLeg:  Armazena um id único para cada legenda, usado como identificador
+    idAud:  Armazena o id referente ao áudio que cada legenda corresponde
+    idioma: Armazena o idioma de cada legenda
+    arqv:   Armazena a localização de cada arquivo de legenda
+    
+    HISTORICO: Tabela que armazena o histórico de audios que foram reproduzidos
+    idHist: Armazena um id único para cada item do histórico, usado como identificador
+    idUser: Armazena o id do usuário que reproduziu o áudio
+    isAud:  Armazena o id do áudio que foi reproduzido
+    
+    NOM_PLAYLISTS: Tabela que armazena informações gerais das playlists registradas
+    idPLay: Armazena um id único para cada playlist, usado como identificador
+    nome:   Armazena um nome para cada playlist
+    idUser: Armazena o id do usuário que criou cada playlist
+    
+    PLAYLIST_AUDIO: Tabela que armazena as correspondências entre playlists e audios
+    idPLayAud: Armazena um id único para cada relação PLaylist-áudio, usado como identificador
+    idPLay:    Armazena o id de cada playlist correspondente (identificador de NOM_PLAYLIST)
+    idAud:     Armazena o id de cada áudio correspondente.
+    
     
 <a name="Rast"></a>
 ### 8	RASTREABILIDADE DOS ARTEFATOS <br> #RASTRARTF
