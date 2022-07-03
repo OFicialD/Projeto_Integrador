@@ -12,6 +12,8 @@ Trabalho desenvolvido durante a disciplina de Desenvolvimento de Sistemas
 6.  [Tabela de dados do sistema](#tabs)
 7.  [Modelo Conceitual](#modconc)
 8.  [Rastreabilidade de artefado](#Rast)
+9.  [Modelo Lógico](#Logico)
+10. [Modelo Físico](#Fisico)
 
 
 <a name="Componentes"> </a>
@@ -138,17 +140,18 @@ Iaggo Ramos Rauta:                iaggodelimaa@gmail.com<br>
     
     
 <a name="Rast"></a>
-### 8	RASTREABILIDADE DOS ARTEFATOS <br> #RASTRARTF
+### 8	RASTREABILIDADE DOS ARTEFATOS <br>
 a) ![Arquivo PDF Rastreabilidade Historias de usuário x Mockup](https://github.com/OFicialD/Projeto_Integrador/blob/4b902885eb41871dd53c0ccf5caf5f02c0b515be/DesenvolvimentoDeSistemasRastreabilidade.pdf "Projeto Autumn")<br>
 b) ![Arquivo do Protótipo vs Modelo Conceitual](https://github.com/OFicialD/Projeto_Integrador/blob/main/Prot%C3%B3tipo%20vs%20Modelo%20Conceitual.pdf)<br>
 c) ![Arquivo xlsx Backlog ](https://github.com/OFicialD/Projeto_Integrador/blob/main/backlog.xlsx "Projeto Autumn")<br>
         
 
-
+<a name="Logico"></a>
 ### 9	MODELO LÓGICO<br>
 
 ![image](https://github.com/OFicialD/Projeto_Integrador/blob/main/Modelo%20Logico.jpg)<br>
 
+<a name="Fisico"></a>
 ### 10	MODELO FÍSICO<br>
 
 ![Arquivo do modelo físico](https://github.com/OFicialD/Projeto_Integrador/blob/main/Modelo%20Fisico.sql)
@@ -168,64 +171,3 @@ c) ![Arquivo xlsx Backlog ](https://github.com/OFicialD/Projeto_Integrador/blob/
   a) Você deve apresentar as consultas em formato SQL para cad um dos relatórios.
  <br>
   b) Além da consulta deve ser apresentada uma imagem com o resultado obtido para cada consulta.<br>
- #### 12.3 ANTEPROJETO VERSÃO 1
- 
- Link para [Modelo de Anteprojeto](https://docs.google.com/document/d/1oeVS2CUffbSNYWxIWZFY_mX6E5ao_PHU/edit?usp=sharing&ouid=104104747195236161434&rtpof=true&sd=true)
- 
- <br>
- <br>
- 
- 
- 
- 
- ### 13 Gráficos, relatórios, integração com Linguagem de programação e outras solicitações.<br>
-     OBS: Observe as instruções relacionadas a cada uma das atividades abaixo.<br>
- #### 13.1	Integração com Linguagem de programação; <br>
- #### 13.2	Desenvolvimento de gráficos/relatórios pertinentes, juntamente com demais <br>
- #### solicitações feitas pelo professor. <br>
- #### 13.3 ANTEPROJETO VERSÃO 2
- <br>
- <br>
- 
- 
- ### 14 Slides e Apresentação em vídeo. <br>
-     OBS: Observe as instruções relacionadas a cada uma das atividades abaixo.<br>
- #### 14.1 Slides; <br>
- #### 14.2 Apresentação em vídeo <br>
- #### 14.3 ANTEPROJETO VERSÃO FINAL
- <br>
- <br>   
-
-
-    
-##### About Formatting
-    https://help.github.com/articles/about-writing-and-formatting-on-github/
-    
-##### Basic Formatting in Git
-    
-    https://help.github.com/articles/basic-writing-and-formatting-syntax/#referencing-issues-and-pull-requests
-   
-    
-##### Working with advanced formatting
-    https://help.github.com/articles/working-with-advanced-formatting/
-
-#### Mastering Markdown
-    https://guides.github.com/features/mastering-markdown/
-
-### OBSERVAÇÕES IMPORTANTES
-
-#### Todos os arquivos que fazem parte do projeto (Imagens, pdfs, arquivos fonte, etc..), devem estar presentes no GIT. Os arquivos do projeto vigente não devem ser armazenados em quaisquer outras plataformas.
-1. Caso existam arquivos com conteúdos sigilosos, comunicar o professor que definirá em conjunto com o grupo a melhor forma de armazenamento do arquivo.
-
-#### Todos os grupos deverão fazer Fork deste repositório e dar permissões administrativas ao usuário deste GIT, para acompanhamento do trabalho.
-
-#### Os usuários criados no GIT devem possuir o nome de identificação do aluno (não serão aceitos nomes como Eu123, meuprojeto, pro456, etc). Em caso de dúvida comunicar o professor.
-
-
-Link para BrModelo:<br>
-http://sis4.com/brModelo/brModelo/download.html
-<br>
-
-
-Link para curso de GIT<br>
-![https://www.youtube.com/curso_git](https://www.youtube.com/playlist?list=PLo7sFyCeiGUdIyEmHdfbuD2eR4XPDqnN2?raw=true "Title")
