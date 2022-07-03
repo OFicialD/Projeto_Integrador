@@ -16,11 +16,11 @@ CREATE SCHEMA IF NOT EXISTS `mydb` DEFAULT CHARACTER SET utf8 ;
 USE `mydb` ;
 
 -- -----------------------------------------------------
--- Table `mydb`.`USUARIO`
+-- Table `USUARIO`
 -- -----------------------------------------------------
-DROP TABLE IF EXISTS `mydb`.`USUARIO` ;
+DROP TABLE IF EXISTS `USUARIO` ;
 
-CREATE TABLE IF NOT EXISTS `mydb`.`USUARIO` (
+CREATE TABLE IF NOT EXISTS `USUARIO` (
   `idUser` INT NOT NULL,
   `nome` VARCHAR(45) NULL,
   `idade` INT NULL,
@@ -31,112 +31,84 @@ ENGINE = InnoDB;
 
 
 -- -----------------------------------------------------
--- Table `mydb`.`AUDIO`
+-- Table `AUDIO`
 -- -----------------------------------------------------
-DROP TABLE IF EXISTS `mydb`.`AUDIO` ;
+DROP TABLE IF EXISTS `AUDIO` ;
 
-CREATE TABLE IF NOT EXISTS `mydb`.`AUDIO` (
+CREATE TABLE IF NOT EXISTS `AUDIO` (
   `idAud` INT NOT NULL,
   `titulo` VARCHAR(45) NULL,
   `arqv` VARCHAR(45) NULL,
   `idUser` INT NOT NULL,
-  PRIMARY KEY (`idAud`),
-  INDEX `fk_AUDIO_USUARIO1_idx` (`idUser` ASC) VISIBLE,
-  CONSTRAINT `fk_AUDIO_USUARIO1`
-    FOREIGN KEY (`idUser`)
-    REFERENCES `mydb`.`USUARIO` (`idUser`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+  PRIMARY KEY (`idAud`))
 ENGINE = InnoDB;
 
+CREATE INDEX `fk_AUDIO_USUARIO1_idx` ON `AUDIO` (`idUser` ASC) VISIBLE;
+
 
 -- -----------------------------------------------------
--- Table `mydb`.`HISTORICO`
+-- Table `HISTORICO`
 -- -----------------------------------------------------
-DROP TABLE IF EXISTS `mydb`.`HISTORICO` ;
+DROP TABLE IF EXISTS `HISTORICO` ;
 
-CREATE TABLE IF NOT EXISTS `mydb`.`HISTORICO` (
+CREATE TABLE IF NOT EXISTS `HISTORICO` (
   `idHist` INT NOT NULL,
   `idAud` INT NOT NULL,
   `idUser` INT NOT NULL,
-  PRIMARY KEY (`idHist`),
-  INDEX `fk_HISTORICO_AUDIO1_idx` (`idAud` ASC) VISIBLE,
-  INDEX `fk_HISTORICO_USUARIO1_idx` (`idUser` ASC) VISIBLE,
-  CONSTRAINT `fk_HISTORICO_AUDIO1`
-    FOREIGN KEY (`idAud`)
-    REFERENCES `mydb`.`AUDIO` (`idAud`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
-  CONSTRAINT `fk_HISTORICO_USUARIO1`
-    FOREIGN KEY (`idUser`)
-    REFERENCES `mydb`.`USUARIO` (`idUser`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+  PRIMARY KEY (`idHist`))
 ENGINE = InnoDB;
 
+CREATE INDEX `fk_HISTORICO_AUDIO1_idx` ON `HISTORICO` (`idAud` ASC) VISIBLE;
+
+CREATE INDEX `fk_HISTORICO_USUARIO1_idx` ON `HISTORICO` (`idUser` ASC) VISIBLE;
+
 
 -- -----------------------------------------------------
--- Table `mydb`.`NOM_PLAYLISTS`
+-- Table `NOM_PLAYLISTS`
 -- -----------------------------------------------------
-DROP TABLE IF EXISTS `mydb`.`NOM_PLAYLISTS` ;
+DROP TABLE IF EXISTS `NOM_PLAYLISTS` ;
 
-CREATE TABLE IF NOT EXISTS `mydb`.`NOM_PLAYLISTS` (
+CREATE TABLE IF NOT EXISTS `NOM_PLAYLISTS` (
   `idPlay` INT NOT NULL,
   `nome` VARCHAR(45) NULL,
   `idUser` INT NOT NULL,
-  PRIMARY KEY (`idPlay`),
-  INDEX `fk_NOM_PLAYLISTS_USUARIO1_idx` (`idUser` ASC) VISIBLE,
-  CONSTRAINT `fk_NOM_PLAYLISTS_USUARIO1`
-    FOREIGN KEY (`idUser`)
-    REFERENCES `mydb`.`USUARIO` (`idUser`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+  PRIMARY KEY (`idPlay`))
 ENGINE = InnoDB;
 
+CREATE INDEX `fk_NOM_PLAYLISTS_USUARIO1_idx` ON `NOM_PLAYLISTS` (`idUser` ASC) VISIBLE;
+
 
 -- -----------------------------------------------------
--- Table `mydb`.`PLAYLIST_AUDIO`
+-- Table `PLAYLIST_AUDIO`
 -- -----------------------------------------------------
-DROP TABLE IF EXISTS `mydb`.`PLAYLIST_AUDIO` ;
+DROP TABLE IF EXISTS `PLAYLIST_AUDIO` ;
 
-CREATE TABLE IF NOT EXISTS `mydb`.`PLAYLIST_AUDIO` (
+CREATE TABLE IF NOT EXISTS `PLAYLIST_AUDIO` (
   `idPlayAud` INT NOT NULL,
   `idPlay` INT NOT NULL,
   `idAud` INT NOT NULL,
-  PRIMARY KEY (`idPlayAud`),
-  INDEX `fk_PLAYLIST_AUDIO_NOM_PLAYLISTS1_idx` (`idPlay` ASC) VISIBLE,
-  INDEX `fk_PLAYLIST_AUDIO_AUDIO1_idx` (`idAud` ASC) VISIBLE,
-  CONSTRAINT `fk_PLAYLIST_AUDIO_NOM_PLAYLISTS1`
-    FOREIGN KEY (`idPlay`)
-    REFERENCES `mydb`.`NOM_PLAYLISTS` (`idPlay`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
-  CONSTRAINT `fk_PLAYLIST_AUDIO_AUDIO1`
-    FOREIGN KEY (`idAud`)
-    REFERENCES `mydb`.`AUDIO` (`idAud`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+  PRIMARY KEY (`idPlayAud`))
 ENGINE = InnoDB;
 
+CREATE INDEX `fk_PLAYLIST_AUDIO_NOM_PLAYLISTS1_idx` ON `PLAYLIST_AUDIO` (`idPlay` ASC) VISIBLE;
+
+CREATE INDEX `fk_PLAYLIST_AUDIO_AUDIO1_idx` ON `PLAYLIST_AUDIO` (`idAud` ASC) VISIBLE;
+
 
 -- -----------------------------------------------------
--- Table `mydb`.`LEGENDA`
+-- Table `LEGENDA`
 -- -----------------------------------------------------
-DROP TABLE IF EXISTS `mydb`.`LEGENDA` ;
+DROP TABLE IF EXISTS `LEGENDA` ;
 
-CREATE TABLE IF NOT EXISTS `mydb`.`LEGENDA` (
+CREATE TABLE IF NOT EXISTS `LEGENDA` (
   `idLeg` INT NOT NULL,
   `idioma` VARCHAR(45) NULL,
   `arqv` VARCHAR(45) NULL,
   `idAud` INT NOT NULL,
-  PRIMARY KEY (`idLeg`),
-  INDEX `fk_LEGENDA_AUDIO_idx` (`idAud` ASC) VISIBLE,
-  CONSTRAINT `fk_LEGENDA_AUDIO`
-    FOREIGN KEY (`idAud`)
-    REFERENCES `mydb`.`AUDIO` (`idAud`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+  PRIMARY KEY (`idLeg`))
 ENGINE = InnoDB;
+
+CREATE INDEX `fk_LEGENDA_AUDIO_idx` ON `LEGENDA` (`idAud` ASC) VISIBLE;
 
 
 SET SQL_MODE=@OLD_SQL_MODE;
