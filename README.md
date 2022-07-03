@@ -140,7 +140,7 @@ Iaggo Ramos Rauta:                iaggodelimaa@gmail.com<br>
 <a name="Rast"></a>
 ### 8	RASTREABILIDADE DOS ARTEFATOS <br> #RASTRARTF
 a) ![Arquivo PDF Rastreabilidade Historias de usuário x Mockup](https://github.com/OFicialD/Projeto_Integrador/blob/4b902885eb41871dd53c0ccf5caf5f02c0b515be/DesenvolvimentoDeSistemasRastreabilidade.pdf "Projeto Autumn")<br>
-b) Protótipo vs Modelo conceitual (não serão aceitos modelos que não estejam em conformidade)<br>
+b) ![Arquivo do Protótipo vs Modelo Conceitual](https://github.com/OFicialD/Projeto_Integrador/blob/main/Prot%C3%B3tipo%20vs%20Modelo%20Conceitual.pdf)<br>
 c) ![Arquivo xlsx Backlog ](https://github.com/OFicialD/Projeto_Integrador/blob/main/backlog.xlsx "Projeto Autumn")<br>
         
 
