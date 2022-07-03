@@ -120,9 +120,8 @@ c) ![Arquivo xlsx Backlog ](https://github.com/OFicialD/Projeto_Integrador/blob/
 ![image](https://github.com/OFicialD/Projeto_Integrador/blob/main/Modelo%20Logico.jpg)<br>
 
 ### 10	MODELO FÍSICO<br>
-        a) inclusão das instruções de criacão das estruturas em SQL/DDL 
-        (criação de tabelas, alterações, etc..) 
-        
+
+![Arquivo do modelo físico](https://github.com/OFicialD/Projeto_Integrador/blob/main/Modelo%20Fisico.sql)
        
 ### 11	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
         a) inclusão das instruções de inserção dos dados nas tabelas criadas pelo script de modelo físico
