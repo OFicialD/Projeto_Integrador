@@ -77,7 +77,7 @@ Iaggo Ramos Rauta:                iaggodelimaa@gmail.com<br>
 
 
 #### 5.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
-> a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes?
+> a) O sistema pode oferecer relatórios sobre preferências dos usuários e padrões de<br> uso dos usuários
     
 > b)  Relatório do Projeto Autumn:
 > * Quais músicas são mais salvas pelos usuários 
