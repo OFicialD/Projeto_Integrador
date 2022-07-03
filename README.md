@@ -71,7 +71,7 @@ Iaggo Ramos Rauta:                iaggodelimaa@gmail.com<br>
 ### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br> 
 
 ![Alt text](https://github.com/OFicialD/Projeto_Integrador/blob/main/Mockup/MockupImagem.png?raw=true "Title")<br>
-![Arquivo PDF do Protótipo Balsamiq feito para o Projeto Autumn](https://github.com/OFicialD/Projeto_Integrador/blob/17ee789bb2b90453acfb3055198f68ceeb7b111f/Mockup/ProjetoAutumn.pdf "Projeto Autumn")
+![Arquivo PDF do Protótipo Balsamiq feito para o Projeto Autumn](https://github.com/OFicialD/Projeto_Integrador/blob/0843a89a33bfda6a5cfd5ebeda5e2ef158d61480/Mockup/ProjetoAutumn.pdf "Projeto Autumn")
 
 
 #### 5.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
