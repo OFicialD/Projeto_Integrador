@@ -110,7 +110,7 @@ Iaggo Ramos Rauta:                iaggodelimaa@gmail.com<br>
     senha: Armazena uma senha para cada usuário, que será comparada no login
     
     AUDIO: Tabela que armazena informações relativas aos audios registrados
-    idAud: Armazena um id único para cada áudio, usado como identificador
+    idAud:   Armazena um id único para cada áudio, usado como identificador
     titulo:  Armazena um nome definido para cada áudio
     idAutor: Armazena o id de quem postou cada audio
     arqv:    Armazena a localização de cada arquivo de audio
