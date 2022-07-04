@@ -159,7 +159,7 @@ c) [Arquivo do Backlog](https://docs.google.com/spreadsheets/d/1X7zhW3RPKLMo1Pu4
 
 [Arquivo do modelo físico](https://github.com/OFicialD/Projeto_Integrador/blob/main/Modelo%20Fisico.sql)
 
-/*
+<!---
 ### 11	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
         a) inclusão das instruções de inserção dos dados nas tabelas criadas pelo script de modelo físico (Drop para exclusão de tabelas + create definição de para tabelas e estruturas de dados + insert para dados a serem inseridos)
         b) Criar um novo banco de dados para testar a restauracao (em caso de falha na restauração o grupo não pontuará neste quesito)
@@ -175,4 +175,4 @@ c) [Arquivo do Backlog](https://docs.google.com/spreadsheets/d/1X7zhW3RPKLMo1Pu4
   a) Você deve apresentar as consultas em formato SQL para cad um dos relatórios.
  <br>
   b) Além da consulta deve ser apresentada uma imagem com o resultado obtido para cada consulta.<br>
-*/
+-->
