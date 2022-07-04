@@ -25,7 +25,7 @@ Integrantes do grupo<br>
 Levi Monteiro Silva:              zerolevi9@gmail.com<br>
 Marcos Vinícius Souza dos Santos: marcosviniciussouzadossantos@gmail.com<br>
 Iaggo Ramos Rauta:                iaggodelimaa@gmail.com<br>
-..
+
 
 <a name="minimundo"></a>
 ### 2.MINIMUNDO<br> 
