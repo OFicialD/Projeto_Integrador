@@ -37,7 +37,7 @@ Iaggo Ramos Rauta:                iaggodelimaa@gmail.com<br>
 ### 3.PMC<br> 
  ![image](https://github.com/OFicialD/Projeto_Integrador/blob/main/PMCimagem.png?raw=true)<br>
  <br>
- ![Arquivo PDF do PMC feito para o Projeto Autumn](https://github.com/OFicialD/Projeto_Integrador/blob/3b8e84ffc6aa7fcdd3d43dc5b355c19a940c49b6/PMCVersaoFinal.pdf "Projeto Autumn")
+ [Arquivo PDF do PMC feito para o Projeto Autumn](https://github.com/OFicialD/Projeto_Integrador/blob/3b8e84ffc6aa7fcdd3d43dc5b355c19a940c49b6/PMCVersaoFinal.pdf "Projeto Autumn")
 
 <a name="personas"></a>
 ### 4.Personas e Histórias de usuário<br> 
@@ -76,7 +76,7 @@ Iaggo Ramos Rauta:                iaggodelimaa@gmail.com<br>
 ### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br> 
 
 ![Alt text](https://github.com/OFicialD/Projeto_Integrador/blob/main/Mockup/MockupImagem.png?raw=true "Title")<br>
-![Arquivo PDF do Protótipo Balsamiq feito para o Projeto Autumn](https://github.com/OFicialD/Projeto_Integrador/blob/0843a89a33bfda6a5cfd5ebeda5e2ef158d61480/Mockup/ProjetoAutumn.pdf "Projeto Autumn")
+[Arquivo PDF do Protótipo Balsamiq feito para o Projeto Autumn](https://github.com/OFicialD/Projeto_Integrador/blob/0843a89a33bfda6a5cfd5ebeda5e2ef158d61480/Mockup/ProjetoAutumn.pdf "Projeto Autumn")
 
 
 <a name="Relat"></a>
@@ -96,7 +96,7 @@ Iaggo Ramos Rauta:                iaggodelimaa@gmail.com<br>
 
 ![imagem](https://github.com/OFicialD/Projeto_Integrador/blob/main/Dados%20do%20Sistema.jpg)
     
-![PDF da Tabela de Dados](https://github.com/OFicialD/Projeto_Integrador/blob/main/Popula%C3%A7%C3%A3o%20BD%20-%20P%C3%A1gina1.pdf)<br>
+[PDF da Tabela de Dados](https://github.com/OFicialD/Projeto_Integrador/blob/main/Popula%C3%A7%C3%A3o%20BD%20-%20P%C3%A1gina1.pdf)<br>
 
 <a name="modconc"></a>
  ### 7.MODELO CONCEITUAL<br> 
