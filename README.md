@@ -146,7 +146,7 @@ Iaggo Ramos Rauta:                iaggodelimaa@gmail.com<br>
 ### 8	RASTREABILIDADE DOS ARTEFATOS <br>
 a) ![Arquivo PDF Rastreabilidade Historias de usuário x Mockup](https://github.com/OFicialD/Projeto_Integrador/blob/4b902885eb41871dd53c0ccf5caf5f02c0b515be/DesenvolvimentoDeSistemasRastreabilidade.pdf "Projeto Autumn")<br>
 b) ![Arquivo do Protótipo vs Modelo Conceitual](https://github.com/OFicialD/Projeto_Integrador/blob/main/Prot%C3%B3tipo%20vs%20Modelo%20Conceitual.pdf)<br>
-c) [Arquivo do Backlog](https://docs.google.com/spreadsheets/d/1oFCOlkDD5PKhI66E1Qp4v7XgweEnTYv6Ox_SlHCmEaQ/edit?usp=sharing)<br>
+c) [Arquivo do Backlog](https://docs.google.com/spreadsheets/d/1X7zhW3RPKLMo1Pu4KXBKskx7v9W2zxpKVhMDEXN3xDs/edit?usp=sharing)<br>
         
 
 <a name="Logico"></a>
