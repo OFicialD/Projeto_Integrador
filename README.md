@@ -92,12 +92,10 @@ Iaggo Ramos Rauta:                iaggodelimaa@gmail.com<br>
  
 <a name="tabs"></a>
 ### 6 TABELA DE DADOS DO SISTEMA:<br>
-    A) Esta tabela deve conter **todos os atributos do sistema** e um mínimo de 10 linhas/registros de dados.
-    B) Esta tabela tem a intenção de simular um relatório com todos os dados que serão armazenados 
- <br> (veja o exemplo abaixo antes de criar a tabela para seu trabalho)
-    C) Após criada esta tabela não deve ser modificada, pois será comparada com os resultados finais na conclusão do trabalho
+
+![imagem](https://github.com/OFicialD/Projeto_Integrador/blob/main/Dados%20do%20Sistema.jpg)
     
-![Exemplo de Tabela de dados da Empresa Devcom](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/TabelaEmpresaDevCom_sample.xlsx?raw=true "Tabela - Empresa Devcom")<br>
+![PDF da Tabela de Dados](https://github.com/OFicialD/Projeto_Integrador/blob/main/Popula%C3%A7%C3%A3o%20BD%20-%20P%C3%A1gina1.pdf")<br>
 
 <a name="modconc"></a>
  ### 7.MODELO CONCEITUAL<br> 
