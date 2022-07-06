@@ -4,7 +4,7 @@ Trabalho desenvolvido durante a disciplina de Desenvolvimento de Sistemas
 # Sumário
 1. [Componentes](#Componentes)
 2. [Minimundo](#minimundo)
-3. [PMP](#pmc)
+3. [PMC](#pmc)
 4. [Personas e Histórias de usuários](#personas)
     1. [Personas](#personas)
     2. [Histórias de usuários](#hst)
